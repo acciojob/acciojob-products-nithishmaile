@@ -28,6 +28,7 @@ body{
 #dsa{
 	background-color:rgb(137, 0, 35);
 	flex-basis:50%;
+	align-self:center;
 }
 #mern{
 	flex-basis:30%;
